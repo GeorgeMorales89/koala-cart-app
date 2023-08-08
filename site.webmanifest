@@ -30,13 +30,7 @@
         ],
     "start_url": "/",
     "scope": "/",
-    "theme_color":"#0000FF",
-    "background_color":"#ADD8E6",
+    "theme_color":"#FEEFEB",
+    "background_color":"#FEEFEB",
     "display":"standalone"
 }
-
-
-
-
-
-
