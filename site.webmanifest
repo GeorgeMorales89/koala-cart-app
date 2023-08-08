@@ -1,6 +1,6 @@
 {   
-    "name": "Koala App",
-    "short_name": "Koala App",
+    "name": "Koala Cart",
+    "short_name": "Koala Cart",
     "icons": 
         [
             {
@@ -28,8 +28,8 @@
                 "type": "image/png"
             }
         ],
-    "theme_color":"#FEEFEB",
-    "background_color":"#FEEFEB",
+    "theme_color":"#0000FF",
+    "background_color":"#ADD8E6",
     "display":"standalone"
 }
 
