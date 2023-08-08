@@ -28,6 +28,8 @@
                 "type": "image/png"
             }
         ],
+    "start_url": "/",
+    "scope": "/",
     "theme_color":"#0000FF",
     "background_color":"#ADD8E6",
     "display":"standalone"
