@@ -80,7 +80,7 @@ function appendItemToShoppingListEl(item) {
     newEl.textContent = itemValue
     
     // Add an event listener to the new list item that triggers when it is clicked
-    newEl.addEventListener("click", function() {
+    newEl.addEventListener("dblclick", function() {
         // Get a reference to the exact location of the clicked item in the database
         let exactLocationOfItemInDB = ref(database, `shoppingList/${itemID}`)
         
